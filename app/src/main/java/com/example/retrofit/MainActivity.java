@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private final static String BASE_URL = "https://jsonplaceholder.typicode.com/";
     private final static String HIMA_URL = "http://localhost:45600/authentication-ws/";
     // added same comment line 21
-    //comment another
+    //comment 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
